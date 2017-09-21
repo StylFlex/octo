@@ -1,4 +1,4 @@
-# This is OCTO DEVLOPMENT TEST website.
+# This is OCTO DEVELOPMENT TEST website.
 Download YII framework
 https://github.com/yiisoft/yii/releases/download/1.1.19/yii-1.1.19.5790cb.tar.gz
 
